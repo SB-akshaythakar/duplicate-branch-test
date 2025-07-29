@@ -157,7 +157,7 @@ components:
       title: User
       type: object
       x-stoplight:
-        id: fq0o1j6rc0lpg
+        id: qurxkjb5an4em
       required:
         - id
         - firstName
